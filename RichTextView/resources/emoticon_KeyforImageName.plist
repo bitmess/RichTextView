@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>ImageBase</key>
+		<string>base</string>
+		<key>Name</key>
+		<string>基础</string>
+		<key>String</key>
+		<string>smile,微笑,高兴,色,cry,害羞,汗,亲,调皮,吐舌头,飞吻,媚眼,破涕为笑,瞌睡,苦逼,累,哼哼,龇牙,烦恼,生气,不屑,刺瞎,呆,吃惊,难过,忧郁,尴尬,害怕,愤怒,紧张,口罩,悠闲,恶魔,诱惑,猪头,奖杯,女孩,男孩,爱心,心碎,玫瑰,厉害,差劲,好的,肌肉,拳头,石头,禁止,喊话,布,胜利,鼓掌,推掌,阿弥陀佛,钻戒,钻石,爱情,小鬼,小狗,熊,高跟鞋,丘比特之箭,向上,向下,向右,向左,蛋糕,啤酒,冰淇淋,咖啡,茶,酒杯,生日蛋糕,米饭,面条,皇冠,礼物,薯条,沙冰,云,闪电,太阳,月亮,五角星,叹号,问号,天使,吹气,对抗,有钱,毒蛇,毛毛虫,青蛙,圣诞老人,飞镖,广播,睡觉,红叶,十八禁,K歌</string>
+		<key>cloumCount</key>
+		<integer>7</integer>
+		<key>dault</key>
+		<string>{40, 50}</string>
+		<key>image</key>
+		<string>base_emocation_Icon</string>
+		<key>origin</key>
+		<string>{25, 10}</string>
+		<key>pageCount</key>
+		<integer>20</integer>
+		<key>rowCount</key>
+		<integer>3</integer>
+		<key>size</key>
+		<string>{30, 30}</string>
+	</dict>
+</array>
+</plist>
